@@ -1,0 +1,22 @@
+ai_tdm_suite/
+│
+├── app.py
+├── requirements.txt
+├── README.md
+├── assets/
+│    └── style.css
+├── modules/
+│    ├── __init__.py
+│    ├── audience_insights_dashboard.py
+│    ├── accessible_streaming_platform.py
+│    ├── tdm_ai_marketing_platform.py
+│    ├── creator_to_fan_crm.py
+│    ├── digital_merch_nft_platform.py
+│    ├── live_experience_marketplace.py
+│    ├── tdm_digital_publishing_studio.py
+│    ├── smart_merch_print_hub.py
+│    └── utils.py   # Shared functions, session, helpers
+│
+├── data/
+│    └── sample_ticket_data.csv
+└── .env   # (if you use secrets, not required for MVP)

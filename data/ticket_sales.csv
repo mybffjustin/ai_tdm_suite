@@ -1,0 +1,10 @@
+date,show,tickets_sold,price,channel,age_group
+2024-07-01,Hamilton,120,120,web,18-34
+2024-07-01,Hamilton,80,120,box_office,35-50
+2024-07-02,Phantom of the Opera,90,100,web,18-34
+2024-07-02,Phantom of the Opera,40,100,box_office,51+
+2024-07-03,Blue Man Group,70,90,web,18-34
+2024-07-03,Blue Man Group,35,90,box_office,35-50
+2024-07-04,Hamilton,110,120,web,18-34
+2024-07-05,Phantom of the Opera,55,100,web,18-34
+2024-07-06,Blue Man Group,95,90,web,18-34

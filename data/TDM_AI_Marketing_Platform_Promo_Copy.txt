@@ -1,0 +1,8 @@
+Example Promo Copy (Paste into the text area)
+Experience the magic of live performance with Hamilton! Secure your seats now and be part of an unforgettable evening. Limited tickets available for this week only. Don't miss out!
+
+For campaign builder:
+campaign_name,target_audience,campaign_message,channels
+Summer Spectacular,18-34,NY,"Don't miss the city's hottest summer performances! Limited seats left.",Email;Instagram
+VIP Invite,35+,Global,"Exclusive backstage access for our VIP fans. RSVP today.",Email;Facebook
+Family Fun,All Ages,Chicago,"Bring the whole family for a weekend of laughter and music.",Email;SMS
